@@ -1,0 +1,48 @@
+
+
+main--
+
+git checkout -b "new_branch"
+
+..
+
+git add .
+
+git commit -m "message"
+
+git push
+
+..
+
+git checkout main
+
+git pull...
+uptodate
+
+git fetch origin
+
+git merge origin/mybranch
+
+
+git push
+
+
+--------
+crud 
+joins
+
+--------
+
+
+reftype:- name = gender 
+          id = 1
+		  
+
+
+refvalue:- name = male id = 1 reftype = 1 refname = "gender"
+           name = female id = 2 reftype = 1 refname = "gender"
+		   
+		   
+		   select * from refvalue where refname = "gender"  
+
+
