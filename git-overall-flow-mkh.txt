@@ -46,3 +46,4 @@ refvalue:- name = male id = 1 reftype = 1 refname = "gender"
 		   select * from refvalue where refname = "gender"  
 
 
+thank you
